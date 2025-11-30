@@ -17,18 +17,18 @@ dengan database.
   2. MahasiswaDAO.java – berperan sebagai penghubung antara aplikasi dan database
   MySQL. Kelas ini berisi berbagai fungsi seperti:
 
-    ▪ checkConnection() untuk mengecek apakah koneksi ke database berhasil atau
+      ▪ checkConnection() untuk mengecek apakah koneksi ke database berhasil atau
     tidak.
 
-    ▪ addMahasiswa() untuk menambahkan data mahasiswa ke tabel.
+      ▪ addMahasiswa() untuk menambahkan data mahasiswa ke tabel.
 
-    ▪ getAllMahasiswa() untuk menampilkan seluruh data mahasiswa.
+      ▪ getAllMahasiswa() untuk menampilkan seluruh data mahasiswa.
 
-    ▪ updateMahasiswa() untuk memperbarui data mahasiswa.
+      ▪ updateMahasiswa() untuk memperbarui data mahasiswa.
 
-    ▪ deleteMahasiswa() untuk menghapus data mahasiswa.
+      ▪ deleteMahasiswa() untuk menghapus data mahasiswa.
 
-    ▪ closeConnection() untuk menutup koneksi database ketika program selesai
+      ▪ closeConnection() untuk menutup koneksi database ketika program selesai
     dijalankan.
 
 • View
